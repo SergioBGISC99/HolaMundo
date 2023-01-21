@@ -4,7 +4,7 @@ package holamundo;
 public class HolaMundo {
 
     public static void main(String[] args) {
-        System.out.println("Hola Mundo, estoy en Github otra vez");
+        System.out.println("Hola Mundo, estoy en Github :)");
     }
     
 }
